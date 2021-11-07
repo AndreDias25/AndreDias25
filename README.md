@@ -1,4 +1,4 @@
-### Olá! Sejam bem vindos ao meu GitHub!
+## Olá! Sejam bem vindos ao meu GitHub!
 
 - 🌱 Estudando Flutter
 ##
@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreDias25&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreDias25&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
